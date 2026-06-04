@@ -40,4 +40,4 @@ brew upgrade hasdata
 - [HasData CLI source](https://github.com/HasData/hasdata-cli)
 - [HasData documentation](https://docs.hasdata.com)
 - [API catalog](https://hasdata.com/apis)
-- [Dashboard & API key](https://hasdata.com)
+- [Dashboard & API key](https://app.hasdata.com)
